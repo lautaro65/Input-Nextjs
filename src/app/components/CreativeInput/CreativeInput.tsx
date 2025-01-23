@@ -12,7 +12,7 @@ const CreativeInput: React.FC<CreativeInputProps> = ({ placeholder }) => {
   const [inputValue, setInputValue] = useState('')
 
   return (
-    <div className="relative w-80">
+    <div className="relative w-52">
       <div className="relative">
         {/* Input container with animated borders */}
         <div className="relative">
